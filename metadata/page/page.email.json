@@ -1,0 +1,13 @@
+{
+  "_id": "page.email",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.email--email.input_auto__1",
+      "_type": "email",
+      "label": "Your email",
+      "name": "email"
+    }
+  ],
+  "url": "email"
+}

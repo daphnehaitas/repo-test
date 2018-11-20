@@ -1,7 +1,14 @@
 {
   "_id": "service",
   "_type": "config.service",
+  "code": "RT",
+  "emailInputNameUser": "email",
+  "emailSubjectTeam": "Repo test submission: {name}",
+  "emailSubjectUser": "You done a repo test submission",
+  "emailTemplateTeam": "{name} submitted this.",
+  "emailTemplateUser": "Your submission was sent",
   "name": "Service name goes here",
   "phase": "alpha",
-  "phaseText": "Service phase text goes here"
+  "phaseText": "Service phase text goes here",
+  "title": "My little repo test"
 }
